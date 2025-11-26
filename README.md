@@ -3,15 +3,8 @@
 ## 1. Introduction
 **onion-links** is an organized, regularly updated directory of .onion resources and hidden services on the Tor network for 2026. This project aims to provide users with reliable and safe access to well-known .onion sites, as well as curated information about privacy, the dark web, and anonymous communication.
 
-## 2. Notable .onion Links (Vanilla Examples)
-- **BBC News**  
-  `http://bbcnewsv2vjtpsuy.onion`
-- **The New York Times**  
-  `https://www.nytimes3xbfgragh.onion`
-- **Facebook**  
-  `https://www.facebookcorewwwi.onion`
-- **ProPublica**  
-  `https://www.propub3r6espa33w.onion`
+## 2. Notable .onion Links  
+
 - **Onion Links**
   [https://onionlinks.com/](https://onionlinks.com/)
 - **Dark Web URLs**
@@ -22,7 +15,15 @@
   [https://darkweblinks.club/](https://darkweblinks.club/)
 - **Dark Web Links Org**
   [https://darkweb-links.org/](https://darkweb-links.org/)
-
+- **BBC News**  
+  `http://bbcnewsv2vjtpsuy.onion`
+- **The New York Times**  
+  `https://www.nytimes3xbfgragh.onion`
+- **Facebook**  
+  `https://www.facebookcorewwwi.onion`
+- **ProPublica**  
+  `https://www.propub3r6espa33w.onion`
+  
 ## 3. Information Resources
 - [Tor (Wikipedia)](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
 - [EFF: Surveillance Self-Defense – Tor](https://ssd.eff.org/en/module/what-tor)
