@@ -12,6 +12,16 @@
   `https://www.facebookcorewwwi.onion`
 - **ProPublica**  
   `https://www.propub3r6espa33w.onion`
+- **Onion Links**
+  [https://onionlinks.com/](https://onionlinks.com/)
+- **Dark Web URLs**
+  [https://darkweburls.com/](https://darkweburls.com/)
+- **Dark Web Market**
+  [https://darkwebmarket.net/](https://darkwebmarket.net/)
+- **Dark Web Links Club**
+  [https://darkweblinks.club/](https://darkweblinks.club/)
+- **Dark Web Links Org**
+  [https://darkweb-links.org/](https://darkweb-links.org/)
 
 ## 3. Information Resources
 - [Tor (Wikipedia)](https://en.wikipedia.org/wiki/Tor_(anonymity_network))
